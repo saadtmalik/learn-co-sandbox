@@ -1,7 +1,1 @@
-def looping
-	loop do
-    puts "Wingardium Leviosa"
-	end
-end
-
-looping
+git clone git@github.com:learn-co-students/looping-loop-v-000.git
